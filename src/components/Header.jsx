@@ -10,11 +10,11 @@ const Header = () => {
       <img src={logoSpiderMan} alt="" />
 
         <ul className="ulHeader">
-          <li className='listaHeader'><a href="#">Home</a></li>
-          <li className='listaHeader'><a href="#">Wallpappers</a></li>
-          <li className='listaHeader'><a href="#">Tajes</a></li>
-          <li className='listaHeader'><a href="#">Forum</a></li>
-          <li className='listaHeader'><a href="#">Gameplays</a></li>
+          <li className='listaHeader'><a href="#" className='linkListaHeader'>Home</a></li>
+          <li className='listaHeader'><a href="#" className='linkListaHeader'>Wallpappers</a></li>
+          <li className='listaHeader'><a href="#" className='linkListaHeader'>Tajes</a></li>
+          <li className='listaHeader'><a href="#" className='linkListaHeader'>Forum</a></li>
+          <li className='listaHeader'><a href="#" className='linkListaHeader'>Gameplays</a></li>
         </ul>
 
     </div>
