@@ -1,17 +1,17 @@
 .conteudoPrincipal {
     display: flex;
     padding-top: 2.5rem;
-    padding-left: 5rem;
+  
 }
 
 .conteudoEscrito {
     background-color: yellow;
-    width: 600px;
+    width: 700px;
     height: 600px;
 }
 
 .imgHomemArnaha {
     background-color: green;
-    width: 600px;
+    width: 700px;
     height: 600px;
 }
