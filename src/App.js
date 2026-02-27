@@ -13,6 +13,19 @@ function App() {
                     <Header />
 
 
+                    <div className="conteudo">
+
+                <div className="conteudoEscrito">
+
+                </div>
+
+                <div className="imgHomemArnaha">
+
+                </div>
+
+                    </div>
+
+
               </div>
 
     </div>
