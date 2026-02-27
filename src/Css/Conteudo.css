@@ -34,4 +34,7 @@
     line-height: 30px;
 }
 
-.imgHomemAranha {}
+.imgHomemAranha {
+    width: 900px;
+    transform: translate(-10px, -670px);
+}
