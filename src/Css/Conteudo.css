@@ -5,7 +5,7 @@
 }
 
 .tituloHomemAranhConteudoDaEsquerda{
-
+    transform: translate(150px, 80px);
 }
 
 .imgDeFundo {
