@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(
+        135deg,          /* ângulo da diagonal */
+        red 50%,         /* vermelho até 50% */
+        blue 50%         /* azul começa exatamente nos 50% */
+    );
+}
