@@ -7,7 +7,7 @@
 }
 
 .tituloHomemAranhConteudoDaEsquerda {
-    transform: translate(150px, 80px);
+    transform: translate(150px, 40px);
 }
 
 .imgDeFundo {
@@ -31,4 +31,5 @@
 .descricaoJogo {
     color: #fff;
     font-family: 'Montserrat';
+    transform: translate(-10px, -600px);
 }
