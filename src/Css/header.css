@@ -2,11 +2,13 @@
 
 .header {
     display: flex;
+    padding-top: 1.5rem;
 }
 
 .ulHeader {
     display: flex;
     gap: 20px;
+    padding-top: 1rem;
 }
 
 /* .listaHeader {
