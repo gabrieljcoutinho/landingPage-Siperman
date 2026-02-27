@@ -2,6 +2,7 @@ import React from 'react'
 
 import imgLogoLetraSpiderMan from "../img/Nome.png"
 import imgDivConteudoEscrito from "../../src/img/logoAranha.png"
+import homemAranha from "../../src/img/homemAranha.png"
 
 type Props = {}
 
@@ -23,7 +24,7 @@ const Conteudoprincipal = (props: Props) => {
     </div>
 
     <div className="imgHomemArnaha">
-    sadfs
+    <img src={homemAranha} alt="" />
     </div>
 
     </div>
