@@ -17,6 +17,7 @@ const Header = () => {
           <li className='listaHeader'><a href="#" className='linkListaHeader'>Trajes</a></li>
           <li className='listaHeader'><a href="#" className='linkListaHeader'>Forum</a></li>
           <li className='listaHeader'><a href="#" className='linkListaHeader'>Gameplays</a></li>
+          <img src={logo2} alt="" className='imgDentroDalista' />
         </ul>
       </div>
 
