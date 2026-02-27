@@ -1,6 +1,7 @@
 import React from 'react'
 
 import imgLogoLetraSpiderMan from "../img/Nome.png"
+import imgDivConteudoEscrito from "../../src/img/logoAranha.png"
 
 type Props = {}
 
@@ -11,6 +12,8 @@ const Conteudoprincipal = (props: Props) => {
     <div className="conteudoEscrito">
 
         <h1><img src={imgLogoLetraSpiderMan} alt="" /></h1>
+
+        <img src={imgDivConteudoEscrito} alt="" />
 
     </div>
 
