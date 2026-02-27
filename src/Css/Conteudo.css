@@ -5,7 +5,8 @@
 }
 
 .imgDeFundo {
-    transform: translate(-50px, -80px);
+    transform: translate(-150px, -80px);
+    width: 690px;
 }
 
 .conteudoEscrito {
