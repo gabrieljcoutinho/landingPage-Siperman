@@ -14,7 +14,7 @@ const Header = () => {
           <li><a href="#">Wallpappers</a></li>
           <li><a href="#">Tajes</a></li>
           <li><a href="#">Forum</a></li>
-          <li><a href="#"></a></li>
+          <li><a href="#">Gameplays</a></li>
         </ul>
 
     </div>
