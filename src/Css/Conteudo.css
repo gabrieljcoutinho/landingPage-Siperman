@@ -9,7 +9,7 @@
     background-image: url(../img//logoAranha.png);
     width: 750px;
     height: 600px;
-    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .imgHomemArnaha {
