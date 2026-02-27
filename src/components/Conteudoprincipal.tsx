@@ -13,7 +13,7 @@ const Conteudoprincipal = (props: Props) => {
 
         <h1><img src={imgLogoLetraSpiderMan} alt="" /></h1>
 
-        <img src={imgDivConteudoEscrito} alt="" />
+        <img src={imgDivConteudoEscrito} alt="" className='imgDeFundo'/>
 
     </div>
 
