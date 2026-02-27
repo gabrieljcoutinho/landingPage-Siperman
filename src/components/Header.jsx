@@ -9,7 +9,7 @@ const Header = () => {
 
       <img src={logoSpiderMan} alt="" />
 
-        <ul className="ulHEader">
+        <ul className="ulHeader">
           <li><a href="#">Home</a></li>
           <li><a href="#">Wallpappers</a></li>
           <li><a href="#">Tajes</a></li>
