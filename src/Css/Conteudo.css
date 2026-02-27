@@ -23,7 +23,6 @@
 }
 
 .imgHomemArnaha {
-    background-color: green;
     width: 750px;
     height: 600px;
 }
@@ -34,3 +33,5 @@
     transform: translate(-10px, -670px);
     line-height: 30px;
 }
+
+.imgHomemAranha {}
