@@ -4,6 +4,7 @@ import "../src/Css/AppDiv.css"
 import "../src/Css/Conteudo.css"
 
 import Header from "../src/components/Header.jsx"
+import ConteudoPrincipal from "../src/components/Conteudoprincipal.jsx"
 
 function App() {
   return (
@@ -14,18 +15,8 @@ function App() {
                     <Header />
 
 
+      <ConteudoPrincipal />
 
-                                          <div className="conteudoPrincipal">
-
-                      <div className="conteudoEscrito">
-                      sdfds
-                      </div>
-
-                      <div className="imgHomemArnaha">
-                      sadfs
-                      </div>
-
-                      </div>
 
               </div>
 
