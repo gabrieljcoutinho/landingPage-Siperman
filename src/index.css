@@ -1,8 +1,10 @@
 body {
-    margin: 0;
+    margin: 10px;
     height: 100vh;
     background: linear-gradient(135deg,
-            #8B0000 50%, /* DarkRed */
-            #000080 50%  /* Navy */
+            #8B0000 50%,
+            /* DarkRed */
+            #000080 50%
+            /* Navy */
         );
 }
