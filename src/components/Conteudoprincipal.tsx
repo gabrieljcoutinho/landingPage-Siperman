@@ -24,7 +24,7 @@ const Conteudoprincipal = (props: Props) => {
     </div>
 
     <div className="imgHomemArnaha">
-    <img src={homemAranha} alt="" />
+    <img src={homemAranha} alt="" className='imgHomemAranha' />
     </div>
 
     </div>
