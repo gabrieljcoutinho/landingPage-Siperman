@@ -1,5 +1,6 @@
 import React from 'react'
 
+import logoSpiderMan from "../img/logoSiperman.png"
 
 const Header = () => {
   return (
