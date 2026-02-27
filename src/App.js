@@ -13,21 +13,25 @@ function App() {
 
                     <Header />
 
+
+
+                                          <div className="conteudoPrincipal">
+
+                      <div className="conteudoEscrito">
+                      sdfds
+                      </div>
+
+                      <div className="imgHomemArnaha">
+                      sadfs
+                      </div>
+
+                      </div>
+
               </div>
 
 
 
-              <div className="conteudoPrincipal">
 
-                          <div className="conteudoEscrito">
-
-                          </div>
-
-                          <div className="imgHomemArnaha">
-
-                          </div>
-
-                </div>
 
 
     </div>
