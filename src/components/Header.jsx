@@ -9,13 +9,15 @@ const Header = () => {
 
       <img src={logoSpiderMan} alt="" />
 
-        <ul className="ulHeader">
+      <div className="movimentacaoLista">
+      <ul className="ulHeader">
           <li className='listaHeader'><a href="#" className='linkListaHeader'>Home</a></li>
           <li className='listaHeader'><a href="#" className='linkListaHeader'>Wallpappers</a></li>
           <li className='listaHeader'><a href="#" className='linkListaHeader'>Trajes</a></li>
           <li className='listaHeader'><a href="#" className='linkListaHeader'>Forum</a></li>
           <li className='listaHeader'><a href="#" className='linkListaHeader'>Gameplays</a></li>
         </ul>
+      </div>
 
     </div>
   )
