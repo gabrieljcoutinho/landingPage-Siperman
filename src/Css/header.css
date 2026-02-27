@@ -23,6 +23,7 @@
     text-decoration: none;
     color: red;
     font-family: 'Montserrat';
+    font-size: 25px;
 }
 
 .linkListaHeader:hover {
