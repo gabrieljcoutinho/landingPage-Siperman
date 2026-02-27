@@ -4,7 +4,7 @@
     padding-right: 10rem;
 }
 
-.tituloHomemAranhConteudoDaEsquerda{
+.tituloHomemAranhConteudoDaEsquerda {
     transform: translate(150px, 80px);
 }
 
@@ -24,4 +24,8 @@
     background-color: green;
     width: 750px;
     height: 600px;
+}
+
+.descricaoJogo {
+    color: #fff;
 }
