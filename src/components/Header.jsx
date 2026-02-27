@@ -6,6 +6,8 @@ const Header = () => {
   return (
     <div className='header'>
 
+      <img src={logoSpiderMan} alt="" />
+
         <ul className="ulHEader">
           <li><a href="#"></a></li>
           <li><a href="#"></a></li>
