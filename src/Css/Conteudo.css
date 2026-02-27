@@ -1,3 +1,7 @@
+.conteudoPrincipal {
+    display: flex;
+}
+
 .conteudoEscrito {
     background-color: yellow;
 }
