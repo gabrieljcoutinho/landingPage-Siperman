@@ -32,9 +32,11 @@
     font-family: 'Montserrat';
     transform: translate(-10px, -670px);
     line-height: 30px;
+    z-index: 21;
 }
 
 .imgHomemAranha {
     width: 1000px;
     transform: translate(-210px, -70px);
+    z-index: -1;
 }
