@@ -5,3 +5,7 @@
 .ulHeader {
     display: flex;
 }
+
+.linkListaHeader {
+    text-decoration: none;
+}
