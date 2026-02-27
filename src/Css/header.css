@@ -29,3 +29,7 @@
 .linkListaHeader:hover {
     text-decoration: underline;
 }
+
+.imgDentroDalista {
+    padding-left: 15rem;
+}
