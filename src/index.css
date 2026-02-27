@@ -1,5 +1,4 @@
 body {
-    margin: 10px;
     height: 100%;
     background: linear-gradient(135deg,
             #8B0000 50%,
@@ -7,4 +6,6 @@ body {
             #000080 50%
             /* Navy */
         );
+
+    background-position: fixed;
 }
